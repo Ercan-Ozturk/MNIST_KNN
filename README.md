@@ -1,1 +1,1 @@
-The model was able to get %97 accuracy on test data. It is implemented using sklearn KNNClassifier.
+The model was able to get %97 accuracy on the test data. It is implemented using sklearn KNNClassifier.
