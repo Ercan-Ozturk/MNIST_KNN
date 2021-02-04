@@ -17,7 +17,7 @@ predictions = k_n.predict(X_test)
 
 from sklearn.metrics import accuracy_score
 accuracy = accuracy_score(predictions, y_test)
-print(accuracy)
+print("The accuracy of the model is %" + str(accuracy*100))
 
 
 
